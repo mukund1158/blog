@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'primary' => 'Primäre Karte',
+    'warning' => 'Warnkarte',
+    'success' => 'Erfolgskarte',
+    'danger' => 'Gefahrenkarte',
+    'Logout' => 'Ausloggen',
+    'My Profile' => 'Mein Profil',
+    'Languages' => 'Sprachen',
+    'dashboard' => 'Armaturenbrett',
+    'search' => 'Suche',
+    'Add User' => 'Nutzer hinzufügen',
+    'Import User' => 'Benutzer importieren',
+    'Excel Template File' => 'Excel-Vorlagendatei',
+    'Id' => 'Ausweis',
+    'Name' => 'Name',
+    'Image' => 'Bild',
+    'Email' => 'Email',
+    'Role' => 'Rolle',
+    'Created At' => 'Hergestellt in',
+    'Updated At' => 'Aktualisiert am',
+    'Operation' => 'Betrieb',
+    'Hi' => 'hallo',
+    'Your Profile has been updated at' => 'Ihr Profil wurde um aktualisiert',
+    'welcome to' => 'Willkommen zu',
+    'Hay' => 'Heu',
+    'Happy Birthday' => 'Alles Gute zum Geburtstag',
+    'Wish you many many Happy Return of the day......' => 'Ich wünsche Ihnen viele, viele glückliche Rückkehr des Tages ......',
+
+];

@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'primary' => 'Primary Card',
+    'warning' => 'Warning Card',
+    'success' => 'Success Card',
+    'danger' => 'Danger Card',
+    'Logout' => 'Logout',
+    'My Profile' => 'My Profile',
+    'Languages' => 'Languages',
+    'dashboard' => 'Dashboard',
+    'search' => 'Search',
+    'Add User' => 'Add User',
+    'Import User' => 'Import User',
+    'Excel Template File' => 'Excel Template File',
+    'Id' => 'Id',
+    'Name' => 'Name',
+    'Image' => 'Image',
+    'Email' => 'Email',
+    'Role' => 'Role',
+    'Created At' => 'Created At',
+    'Updated At' => 'Updated At',
+    'Operation' => 'Operation',
+    'Hi' => 'Hi',
+    'Your Profile has been updated at' => 'Your Profile has been updated at',
+    'welcome to' => 'Welcome to',
+    'Hay' => 'Hay',
+    'Happy Birthday' => 'Happy Birthday',
+    'Wish you many many Happy Return of the day......' => 'Wish you many many Happy Return of the day......',
+
+];
