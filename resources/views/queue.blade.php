@@ -13,7 +13,6 @@
                     @csrf
                     <textarea name="emails" id="" cols="60" rows="4"></textarea><br>
                     <button type="submit" class="btn btn-primary">Send Mails</button>
-                    <button type="submit" class="btn btn-primary">Send Mails</button>
                 </form>
             </div>
         </div>
